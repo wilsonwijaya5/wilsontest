@@ -2,8 +2,8 @@
 include 'database.php';
 $db = new database();
 ?>
-<h1>CRUD OOP PHP</h1>
-<h2>Testing.com</h2>
+<h1>Test GitHub</h1>
+<h2>Test GitHub</h2>
 <h3>Data User</h3>
 
 <a href = "input.php">Input Data</a>
