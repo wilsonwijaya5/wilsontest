@@ -5,7 +5,7 @@ $db = new database();
 <h1>Test GitHub</h1>
 <h2>Test GitHub</h2>
 <h3>Data User</h3>
-<h4>Hello World<h4>
+<h4>Hello Wilson Dari Wahyu Ananda<h4>
 <h1>Test GitHub</h1>
 
 <a href = "input.php">Input Data</a>
